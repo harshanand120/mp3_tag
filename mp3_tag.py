@@ -24,6 +24,7 @@ class bcolors:
     ENDC = '\033[0m'
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
+colorama.inti()
 
 #add your acoustid key by making a profile
 acoustid_key='' 
