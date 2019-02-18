@@ -1,0 +1,7 @@
+pyacoustid
+musicbrainzngs
+requests
+bs4
+mutagen
+tqdm
+colorama
